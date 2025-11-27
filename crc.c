@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdint.h>
 
+reader info
+
 #define PRESET_VALUE 0xFFFF
 #define POLYNOMIAL   0x8408
 
